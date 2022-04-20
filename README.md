@@ -1,3 +1,2 @@
 # git-basics-project
-learning webdesign - HTML & CLS 
-work with GitHub
+learning webdesign - HTML & CLS and work with GitHub
